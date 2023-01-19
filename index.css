@@ -1,6 +1,7 @@
 body {
   margin: 0;
   line-height: normal;
+  background-color: #050618;
 }
 .log-in,
 .logo {
@@ -201,9 +202,9 @@ body {
 }
 .macbook-pro-16-1 {
   position: relative;
-  background-color: #050618;
-  width: 100%;
-  height: 792px;
+  
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
   text-align: center;
   font-size: var(--font-size-lg);
