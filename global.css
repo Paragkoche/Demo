@@ -1,0 +1,22 @@
+:root {
+  /* fonts */
+  --font-dancing-script: "Dancing Script";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-xs: 14.16px;
+  --font-size-sm: 15px;
+  --font-size-base: 20px;
+  --font-size-lg: 64px;
+
+  /* Colors */
+  --color-gray-100: rgba(255, 255, 255, 0.5);
+  --color-white: #fff;
+
+  /* Paddings */
+  --padding-sm: 9.439252853393555px;
+  --padding-md: 23.59813117980957px;
+
+  /* border radiuses */
+  --br-md: 7.55px;
+}

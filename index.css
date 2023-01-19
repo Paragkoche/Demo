@@ -1,0 +1,212 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.log-in,
+.logo {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  top: 61px;
+  left: 150px;
+  font-size: 40px;
+  font-weight: 800;
+  background: linear-gradient(90deg, #ed3a3e, #ae01fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 221px;
+  height: 47px;
+}
+.log-in {
+  top: 73px;
+  left: 1357px;
+  font-size: 14px;
+  width: 100px;
+  height: 24.14px;
+}
+.sign-up {
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+}
+.sign-up-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-md);
+  background-color: transparent;
+  position: absolute;
+  top: 61px;
+  left: 1477px;
+  border-radius: var(--br-md);
+  background: linear-gradient(90.07deg, #fc3e45, #a500f6);
+  height: 47px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.riupload-cloud-line-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.riupload-cloud-line-parent {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-md);
+  background-color: transparent;
+  position: absolute;
+  top: 606px;
+  left: 874px;
+  border-radius: var(--br-md);
+  background: linear-gradient(90.07deg, #fc3e45, #a500f6);
+  width: 221px;
+  height: 47px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 18.88px;
+}
+.how-to-use {
+  position: relative;
+}
+.how-to-use-parent {
+  position: absolute;
+  top: 61px;
+  left: 686px;
+  height: 47px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.macbook-pro-16-1-child {
+  position: absolute;
+  top: 212px;
+  left: 350px;
+  width: 296px;
+  height: 405px;
+  object-fit: cover;
+}
+.macbook-pro-16-1-inner,
+.macbook-pro-16-1-item {
+  position: absolute;
+  top: 558px;
+  left: 271px;
+  width: 108px;
+  height: 148px;
+  object-fit: cover;
+}
+.macbook-pro-16-1-inner {
+  top: 172px;
+  left: 578px;
+}
+.vector-icon {
+  position: absolute;
+  top: 380.89px;
+  left: 211.59px;
+  width: 110.73px;
+  height: 140.5px;
+}
+.macbook-pro-16-1-child1 {
+  position: absolute;
+  top: 331.14px;
+  left: 674.05px;
+  width: 45.22px;
+  height: 86.88px;
+}
+.add-the {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.watermark-on-image {
+  margin: 0;
+}
+.add-the-watermark-container {
+  position: absolute;
+  top: 172px;
+  left: 880px;
+  display: inline-block;
+  text-align: left;
+  width: 698px;
+}
+.free {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  background: linear-gradient(121deg, #fd3e44 0.01%, #ad00fb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.free-wrapper {
+  position: absolute;
+  top: 364px;
+  left: 995px;
+  border-radius: 8px;
+  width: 221px;
+  height: 96px;
+  overflow: hidden;
+  text-align: left;
+}
+.drop-an-image,
+.lorem-ipsum-dolor {
+  position: absolute;
+  left: 874px;
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.lorem-ipsum-dolor {
+  top: 483px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 704px;
+  height: 96px;
+}
+.drop-an-image {
+  top: 681px;
+  font-size: var(--font-size-xs);
+  display: flex;
+  align-items: center;
+  width: 221px;
+  height: 25px;
+}
+.watermark {
+  position: absolute;
+  top: 220px;
+  left: 350px;
+  font-size: var(--font-size-base);
+  line-height: 30.91px;
+  display: inline-block;
+  font-family: var(--font-dancing-script);
+  width: 115px;
+  height: 30px;
+}
+.macbook-pro-16-1 {
+  position: relative;
+  background-color: #050618;
+  width: 100%;
+  height: 792px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
